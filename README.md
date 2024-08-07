@@ -1,1 +1,1 @@
-# thitsarparami.mobile
+# thitsarparami.release
